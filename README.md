@@ -8,3 +8,13 @@
 즐기세요! 제 앱 공유에 오신 것을 환영합니다.
 바이러스가 없고 깨끗한 앱입니다(현재 제 휴대폰에서 테스트 중인데 휴대폰에서는 잘 작동합니다). 설치하면 위험한 앱이라고 알 수 있지만, 그건 잘못된 경보입니다.
 앱을 즐겨보세요! 저는 매튜입니다! 
+Pixel-offline-music-player
+Pixel music player beta is being released!
+remember the radio came from browser info data base
+broadcasters: if you want the app removed! 
+I am not selling it, I am a content creator who does this for fun: made with MUSE AI meta
+(no coding) 
+features you can play your own music player mp3 files and there is radio, currently bright fm etc 
+enjoy! welcome to the share of my app
+has no virus it's a clean app( I am currently testing this on my phone and it works fine on my phone) when you install it might tell you it's a dangerous app but that is a false alarm
+enjoy the app! I am Matthew!
