@@ -1,4 +1,4 @@
-# 픽셀-오프라인-음악-플레이어
+# 픽셀-오프라인-음악-플레이어 그리고 라디오 포함
 픽셀 뮤직 플레이어 베타가 출시됩니다!
 라디오는 브라우저 정보 데이터베이스에서 나왔다는 것을 기억하세요.
 방송사: 앱을 제거하고 싶다면!
@@ -9,10 +9,10 @@
 바이러스가 없고 깨끗한 앱입니다(현재 제 휴대폰에서 테스트 중인데 휴대폰에서는 잘 작동합니다). 설치하면 위험한 앱이라고 알 수 있지만, 그건 잘못된 경보입니다.
 앱을 즐겨보세요! 저는 매튜입니다! 
 
-Pixel-offline-music-player
+Pixel-offline-music-player and radio included
 Pixel music player beta is being released!
 remember the radio came from browser info data base
-broadcasters: if you want the app removed! 
+broadcasters: if you want the app removed contact me at midnightstudio100@gmail.com
 I am not selling it, I am a content creator who does this for fun: made with MUSE AI meta
 (no coding) 
 features you can play your own music player mp3 files and there is radio, currently bright fm etc 
